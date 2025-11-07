@@ -3,8 +3,9 @@
 
 - 🔭 I’m currently working on [Antiy](https://www.antiy.cn/)  
   
+- 🌱 I’m currently learning Back-end development, For example, Golang、Python
 
-- 🌱 I’m currently learning Back-end development, For example, Golang、Python  
+- 📝 My personal blog: https://li6.top/
   
 
 <br/>  
