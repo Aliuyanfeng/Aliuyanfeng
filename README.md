@@ -1,7 +1,5 @@
 ### <div align="center">I'm Liuyanfeng, a front-end development engineer who wants to point everything 👨‍💻</div>  
   
-
-- 🔭 I’m currently working on [Antiy](https://www.antiy.cn/)  
   
 - 🌱 I’m currently learning Back-end development, For example, Golang、Python
 
